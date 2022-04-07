@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello, Welcome to GitHub!</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>
